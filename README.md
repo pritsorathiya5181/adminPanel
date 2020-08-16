@@ -1,4 +1,4 @@
-# adminPanel
+# AdminPanel
 Django customer management platform
 
 
