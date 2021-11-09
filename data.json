@@ -1,0 +1,2008 @@
+{
+  "data": [
+    {
+      "conversation_id": "1457890381182509056",
+      "created_at": "2021-11-09T01:58:47.000Z",
+      "id": "1457890381182509056",
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "katibug817",
+            "id": "1129683662"
+          },
+          {
+            "start": 16,
+            "end": 29,
+            "username": "Eathbound420",
+            "id": "1026282888474443776"
+          },
+          {
+            "start": 30,
+            "end": 44,
+            "username": "SabineTraeder",
+            "id": "1325478800659017729"
+          },
+          {
+            "start": 45,
+            "end": 60,
+            "username": "jackie14916195",
+            "id": "1108115660419141633"
+          },
+          {
+            "start": 61,
+            "end": 75,
+            "username": "Jane_with_a_y",
+            "id": "59480357"
+          },
+          {
+            "start": 76,
+            "end": 87,
+            "username": "Mary1Kathy",
+            "id": "1320503314753056770"
+          },
+          {
+            "start": 88,
+            "end": 99,
+            "username": "Suzyqfit4u",
+            "id": "825593425680437248"
+          },
+          {
+            "start": 100,
+            "end": 113,
+            "username": "chefrocky413",
+            "id": "1513214906"
+          },
+          {
+            "start": 114,
+            "end": 126,
+            "username": "kitchen5203",
+            "id": "720323991894798336"
+          },
+          {
+            "start": 127,
+            "end": 135,
+            "username": "dindin6",
+            "id": "245859231"
+          }
+        ]
+      },
+      "source": "Twitter for iPad",
+      "lang": "en",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1457796695178170375"
+        }
+      ],
+      "text": "RT @katibug817: @Eathbound420 @SabineTraeder @jackie14916195 @Jane_with_a_y @Mary1Kathy @Suzyqfit4u @chefrocky413 @kitchen5203 @dindin6 @De…",
+      "author_id": "33736164"
+    },
+    {
+      "conversation_id": "1457890380901404676",
+      "created_at": "2021-11-09T01:58:47.000Z",
+      "id": "1457890380901404676",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847546154439000064",
+            "name": "Education",
+            "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "852247095461371904",
+            "name": "Graduate school",
+            "description": "Graduate school"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "Olufemiloye",
+            "id": "279897589"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 59,
+            "end": 64,
+            "probability": 0.9982,
+            "type": "Place",
+            "normalized_text": "Canada"
+          },
+          {
+            "start": 130,
+            "end": 135,
+            "probability": 0.9539,
+            "type": "Place",
+            "normalized_text": "Canada"
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "lang": "en",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1457703063330959367"
+        }
+      ],
+      "text": "RT @Olufemiloye: Again, if you want to do a Masters/PhD in Canada, and you really really need a scholarship, consider applying to Canada’s…",
+      "author_id": "244029270"
+    },
+    {
+      "conversation_id": "1457890380192509954",
+      "created_at": "2021-11-09T01:58:47.000Z",
+      "id": "1457890380192509954",
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 17,
+            "username": "SayidAhmedUCP",
+            "id": "1419746989449744396"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 103,
+            "end": 108,
+            "probability": 0.9944,
+            "type": "Place",
+            "normalized_text": "Canada"
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "lang": "en",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1457888939167997954"
+        }
+      ],
+      "text": "RT @SayidAhmedUCP: Today, November 8, we honour and thank all Indigenous Veterans for their service to Canada. We Will Remember Them and al…",
+      "author_id": "104037382"
+    },
+    {
+      "conversation_id": "1457890376300126213",
+      "created_at": "2021-11-09T01:58:46.000Z",
+      "id": "1457890376300126213",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "Unbranded63",
+            "id": "122640580"
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "lang": "en",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1457876367329136644"
+        }
+      ],
+      "text": "RT @Unbranded63: The unvaccinated are dragging this pandemic out. We will enter the third year of it because of them. Their party is the Co…",
+      "author_id": "228877238"
+    },
+    {
+      "conversation_id": "1457890369362817029",
+      "created_at": "2021-11-09T01:58:45.000Z",
+      "id": "1457890369362817029",
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "Hannah_Bananaz",
+            "id": "1314418472399462400"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 24,
+            "end": 29,
+            "probability": 0.9809,
+            "type": "Place",
+            "normalized_text": "Canada"
+          },
+          {
+            "start": 62,
+            "end": 66,
+            "probability": 0.9602,
+            "type": "Place",
+            "normalized_text": "China"
+          },
+          {
+            "start": 126,
+            "end": 130,
+            "probability": 0.9725,
+            "type": "Place",
+            "normalized_text": "China"
+          }
+        ]
+      },
+      "source": "Twitter for Android",
+      "lang": "en",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1457827700861640707"
+        }
+      ],
+      "text": "RT @Hannah_Bananaz: And Canada is planning to build... none.\n\nChina’s climate goals hinge on a $440 billion nuclear buildout. China is plan…",
+      "author_id": "1387172695163379713"
+    },
+    {
+      "conversation_id": "1457877570511417346",
+      "created_at": "2021-11-09T01:58:43.000Z",
+      "in_reply_to_user_id": "1349849582",
+      "id": "1457890364870832129",
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 9,
+            "username": "tdmas_cr",
+            "id": "1349849582"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 10,
+            "end": 15,
+            "probability": 0.8108,
+            "type": "Place",
+            "normalized_text": "Canadá"
+          },
+          {
+            "start": 23,
+            "end": 28,
+            "probability": 0.86,
+            "type": "Place",
+            "normalized_text": "Brasil"
+          }
+        ]
+      },
+      "source": "Twitter for Android",
+      "lang": "es",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1457877570511417346"
+        }
+      ],
+      "text": "@tdmas_cr Canadá no es Brasil, poniendo guevitos se saca",
+      "author_id": "1383787255001587723"
+    },
+    {
+      "entities": {
+        "hashtags": [
+          {
+            "start": 117,
+            "end": 123,
+            "tag": "GOT7𓅪"
+          },
+          {
+            "start": 124,
+            "end": 132,
+            "tag": "Yugyeom"
+          },
+          {
+            "start": 133,
+            "end": 140,
+            "tag": "NCT127"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "H3IdolChamp",
+            "id": "1424795897574019078"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 55,
+            "end": 60,
+            "probability": 0.9924,
+            "type": "Place",
+            "normalized_text": "CANADA"
+          }
+        ]
+      },
+      "conversation_id": "1457890361259356164",
+      "attachments": {
+        "poll_ids": [
+          "1457706436222275585"
+        ]
+      },
+      "created_at": "2021-11-09T01:58:43.000Z",
+      "id": "1457890361259356164",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "894973286085386240",
+            "name": "Yugyeom (GOT7)",
+            "description": "Yugyeom (유겸) - member of GOT7"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "897126481884659712",
+            "name": "NCT",
+            "description": "Members: Mark (마크 from NCT), Renjun (런쥔), Jeno (제노), Haechan (해찬), Jaemin (재민), Chenle (천러), Jisung (지성), Taeil (태일 from NCT), Doyoung (도영), Jaehyun (재현), Johnny (쟈니), Taeyong (태용), Yuta (유타), Winwin (윈윈), Ten (텐)"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "910970076802695168",
+            "name": "NCT 127",
+            "description": "NCT 127 - subunit group of NCT"
+          }
+        },
+        {
+          "domain": {
+            "id": "54",
+            "name": "Musician",
+            "description": "A musician in the world, like Adele or Bob Dylan"
+          },
+          "entity": {
+            "id": "894973286085386240",
+            "name": "Yugyeom (GOT7)",
+            "description": "Yugyeom (유겸) - member of GOT7"
+          }
+        },
+        {
+          "domain": {
+            "id": "54",
+            "name": "Musician",
+            "description": "A musician in the world, like Adele or Bob Dylan"
+          },
+          "entity": {
+            "id": "897126481884659712",
+            "name": "NCT",
+            "description": "Members: Mark (마크 from NCT), Renjun (런쥔), Jeno (제노), Haechan (해찬), Jaemin (재민), Chenle (천러), Jisung (지성), Taeil (태일 from NCT), Doyoung (도영), Jaehyun (재현), Johnny (쟈니), Taeyong (태용), Yuta (유타), Winwin (윈윈), Ten (텐)"
+          }
+        },
+        {
+          "domain": {
+            "id": "54",
+            "name": "Musician",
+            "description": "A musician in the world, like Adele or Bob Dylan"
+          },
+          "entity": {
+            "id": "910970076802695168",
+            "name": "NCT 127",
+            "description": "NCT 127 - subunit group of NCT"
+          }
+        },
+        {
+          "domain": {
+            "id": "55",
+            "name": "Music Genre",
+            "description": "A category for a musical style, like Pop, Rock, or Rap"
+          },
+          "entity": {
+            "id": "888105153038958593",
+            "name": "K-pop",
+            "description": "K-Pop"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "lang": "en",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1457706437304406019"
+        }
+      ],
+      "text": "RT @H3IdolChamp: ✨IDOLCHAMP : THE MOST POPULAR IDOL IN CANADA ✨\n\n✨1.800 CHASIM\n\n✨RULES :\nFOLLOW, LIKE &amp; RETWEET\n\n#GOT7𓅪 #Yugyeom #NCT127 #M…",
+      "author_id": "1446140343636807687"
+    },
+    {
+      "conversation_id": "1457890358801494017",
+      "created_at": "2021-11-09T01:58:42.000Z",
+      "id": "1457890358801494017",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1070735214702288896",
+            "name": "Sean Fraser",
+            "description": "Canadian politician"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "1070735214702288896",
+            "name": "Sean Fraser",
+            "description": "Canadian politician"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "834164697880416257",
+            "name": "Justin Trudeau",
+            "description": "Canadian Prime Minister Justin Trudeau"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "834164697880416257",
+            "name": "Justin Trudeau",
+            "description": "Canadian Prime Minister Justin Trudeau"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "ShresthaPurash",
+            "id": "1400257357569875970"
+          },
+          {
+            "start": 76,
+            "end": 89,
+            "username": "CitImmCanada",
+            "id": "91193025"
+          },
+          {
+            "start": 90,
+            "end": 104,
+            "username": "CanadainIndia",
+            "id": "227032547"
+          },
+          {
+            "start": 105,
+            "end": 119,
+            "username": "CanadainNepal",
+            "id": "999347040541913094"
+          },
+          {
+            "start": 120,
+            "end": 132,
+            "username": "RONBupdates",
+            "id": "3141875413"
+          }
+        ]
+      },
+      "source": "Twitter for Android",
+      "lang": "en",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1457678460063604738"
+        }
+      ],
+      "text": "RT @ShresthaPurash: Dear IRCC, please hear the voices of Nepalese Students\n\n@CitImmCanada @CanadainIndia @CanadainNepal @RONBupdates @SeanF…",
+      "author_id": "1146433428973207552"
+    },
+    {
+      "conversation_id": "1457890358373732354",
+      "created_at": "2021-11-09T01:58:42.000Z",
+      "id": "1457890358373732354",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597302226944",
+            "name": "Transportation"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847528391163092993",
+            "name": "Automotive",
+            "description": "Car culture"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "847528576551337984",
+            "name": "Hybrid and electric vehicles",
+            "description": "Hybrid and electric vehicles"
+          }
+        }
+      ],
+      "reply_settings": "mentionedUsers",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "WilkieMP",
+            "id": "398422158"
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "lang": "en",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1457851846093991938"
+        }
+      ],
+      "text": "RT @WilkieMP: No targets, subsidies or emissions standards. The Govt's electric car strategy is woefully light on detail, against industry…",
+      "author_id": "1152624264954052609"
+    },
+    {
+      "conversation_id": "1457764407044366339",
+      "created_at": "2021-11-09T01:58:42.000Z",
+      "in_reply_to_user_id": "276713213",
+      "id": "1457890356867977218",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "834164697880416257",
+            "name": "Justin Trudeau",
+            "description": "Canadian Prime Minister Justin Trudeau"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "834164697880416257",
+            "name": "Justin Trudeau",
+            "description": "Canadian Prime Minister Justin Trudeau"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 13,
+            "username": "s_guilbeault",
+            "id": "276713213"
+          },
+          {
+            "start": 14,
+            "end": 26,
+            "username": "NatObserver",
+            "id": "17410863"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 27,
+            "end": 33,
+            "probability": 0.9214,
+            "type": "Person",
+            "normalized_text": "Trudeau"
+          },
+          {
+            "start": 49,
+            "end": 53,
+            "probability": 0.9601,
+            "type": "Person",
+            "normalized_text": "Steve"
+          },
+          {
+            "start": 120,
+            "end": 125,
+            "probability": 0.9944,
+            "type": "Place",
+            "normalized_text": "Canada"
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "lang": "en",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1457764407044366339"
+        }
+      ],
+      "text": "@s_guilbeault @NatObserver Trudeau and tax fraud Steve stealing our money to ship overseas. Terrible, keep our money in Canada",
+      "author_id": "1250837749386469377"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "33736164",
+        "name": "Rosemary Dill",
+        "username": "RomTwit"
+      },
+      {
+        "id": "1129683662",
+        "name": "DIANA💫Princess🔱Warrior💫",
+        "username": "katibug817"
+      },
+      {
+        "id": "1026282888474443776",
+        "name": "EARTHBOUND420🌍🌱 BIDEN trump Sucked! #NeverAgain",
+        "username": "Eathbound420"
+      },
+      {
+        "id": "1325478800659017729",
+        "name": "Sabine „Yoda” Traeder ♿️🇩🇪like🏳️‍🌈🏳️‍⚧️⚖️🇺🇸",
+        "username": "SabineTraeder"
+      },
+      {
+        "id": "1108115660419141633",
+        "name": "🦋🌷🦋Jackie🦋🌷🦋",
+        "username": "jackie14916195"
+      },
+      {
+        "id": "59480357",
+        "name": "Jayne 🌊",
+        "username": "Jane_with_a_y"
+      },
+      {
+        "id": "1320503314753056770",
+        "name": "HelloKittyKatGirl😻🙏💞",
+        "username": "Mary1Kathy"
+      },
+      {
+        "id": "825593425680437248",
+        "name": "🆘🌳S꙰U꙰Z꙰Y꙰Q꙰🌳🆘",
+        "username": "Suzyqfit4u"
+      },
+      {
+        "id": "1513214906",
+        "name": "👨🏼‍🍳Chef Rocky🌊#Resistance#ClimateActionsNow",
+        "username": "chefrocky413"
+      },
+      {
+        "id": "720323991894798336",
+        "name": "Jon Kitchen 🔁",
+        "username": "kitchen5203"
+      },
+      {
+        "id": "245859231",
+        "name": "dindin",
+        "username": "dindin6"
+      },
+      {
+        "id": "244029270",
+        "name": "Kelvin TA (He/Him/His)",
+        "username": "Oluwatomisin88"
+      },
+      {
+        "id": "279897589",
+        "name": "Olú",
+        "username": "Olufemiloye"
+      },
+      {
+        "id": "104037382",
+        "name": "ltmcdies 🇨🇦🥂",
+        "username": "ltmcdies"
+      },
+      {
+        "id": "1419746989449744396",
+        "name": "Sayid Ahmed Decore",
+        "username": "SayidAhmedUCP"
+      },
+      {
+        "id": "228877238",
+        "name": "Claude Duret",
+        "username": "cjlmd"
+      },
+      {
+        "id": "122640580",
+        "name": "Unbranded",
+        "username": "Unbranded63"
+      },
+      {
+        "id": "1387172695163379713",
+        "name": "RyanSABC",
+        "username": "RyanSABC"
+      },
+      {
+        "id": "1314418472399462400",
+        "name": "Andy Lee",
+        "username": "Hannah_Bananaz"
+      },
+      {
+        "id": "1383787255001587723",
+        "name": "Wbarbozah84",
+        "username": "wbarbozah84"
+      },
+      {
+        "id": "1349849582",
+        "name": "TD Más",
+        "username": "tdmas_cr"
+      },
+      {
+        "id": "1446140343636807687",
+        "name": "妍",
+        "username": "yjmseven"
+      },
+      {
+        "id": "1424795897574019078",
+        "name": "ঔৣ ۝ H3 IdolChamp ۝ ঔৣ",
+        "username": "H3IdolChamp"
+      },
+      {
+        "id": "1146433428973207552",
+        "name": "Aadarsha Bista",
+        "username": "aadarsha_bista"
+      },
+      {
+        "id": "1400257357569875970",
+        "name": "Purash Shrestha",
+        "username": "ShresthaPurash"
+      },
+      {
+        "id": "91193025",
+        "name": "IRCC",
+        "username": "CitImmCanada"
+      },
+      {
+        "id": "227032547",
+        "name": "Canada in India",
+        "username": "CanadainIndia"
+      },
+      {
+        "id": "999347040541913094",
+        "name": "Canada in Nepal",
+        "username": "CanadainNepal"
+      },
+      {
+        "id": "3141875413",
+        "name": "Routine of Nepal banda",
+        "username": "RONBupdates"
+      },
+      {
+        "id": "1152624264954052609",
+        "name": "AndrewD💖😎:) :-)",
+        "username": "Andrew30804562"
+      },
+      {
+        "id": "398422158",
+        "name": "Andrew Wilkie MP",
+        "username": "WilkieMP"
+      },
+      {
+        "id": "1250837749386469377",
+        "name": "hihgoi",
+        "username": "hidubiwn"
+      },
+      {
+        "id": "276713213",
+        "name": "Steven Guilbeault",
+        "username": "s_guilbeault"
+      },
+      {
+        "id": "17410863",
+        "name": "Canada's National Observer",
+        "username": "NatObserver"
+      }
+    ],
+    "tweets": [
+      {
+        "conversation_id": "1457398372726235140",
+        "created_at": "2021-11-08T19:46:31.000Z",
+        "in_reply_to_user_id": "1026282888474443776",
+        "id": "1457796695178170375",
+        "reply_settings": "everyone",
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "Eathbound420",
+              "id": "1026282888474443776"
+            },
+            {
+              "start": 14,
+              "end": 28,
+              "username": "SabineTraeder",
+              "id": "1325478800659017729"
+            },
+            {
+              "start": 29,
+              "end": 44,
+              "username": "jackie14916195",
+              "id": "1108115660419141633"
+            },
+            {
+              "start": 45,
+              "end": 59,
+              "username": "Jane_with_a_y",
+              "id": "59480357"
+            },
+            {
+              "start": 60,
+              "end": 71,
+              "username": "Mary1Kathy",
+              "id": "1320503314753056770"
+            },
+            {
+              "start": 72,
+              "end": 83,
+              "username": "Suzyqfit4u",
+              "id": "825593425680437248"
+            },
+            {
+              "start": 84,
+              "end": 97,
+              "username": "chefrocky413",
+              "id": "1513214906"
+            },
+            {
+              "start": 98,
+              "end": 110,
+              "username": "kitchen5203",
+              "id": "720323991894798336"
+            },
+            {
+              "start": 111,
+              "end": 119,
+              "username": "dindin6",
+              "id": "245859231"
+            },
+            {
+              "start": 120,
+              "end": 133,
+              "username": "DeniseDarrer",
+              "id": "1044856876826062848"
+            },
+            {
+              "start": 134,
+              "end": 148,
+              "username": "DarwunStJames",
+              "id": "493344856"
+            },
+            {
+              "start": 149,
+              "end": 162,
+              "username": "garychristou",
+              "id": "238682004"
+            },
+            {
+              "start": 163,
+              "end": 179,
+              "username": "77SunnyAndClear",
+              "id": "62633946"
+            },
+            {
+              "start": 180,
+              "end": 192,
+              "username": "ZACKHAMMER7",
+              "id": "1300050128254967809"
+            },
+            {
+              "start": 193,
+              "end": 205,
+              "username": "JustChrisC2",
+              "id": "270195321"
+            },
+            {
+              "start": 206,
+              "end": 221,
+              "username": "KimberlyROSE50",
+              "id": "1432669084898971649"
+            },
+            {
+              "start": 222,
+              "end": 233,
+              "username": "small1ldy1",
+              "id": "4157939543"
+            },
+            {
+              "start": 234,
+              "end": 243,
+              "username": "Texy_Liz",
+              "id": "957112964313579521"
+            },
+            {
+              "start": 269,
+              "end": 282,
+              "username": "Eathbound420",
+              "id": "1026282888474443776"
+            },
+            {
+              "start": 336,
+              "end": 350,
+              "username": "lisasmith1150",
+              "id": "1364097628829405189"
+            },
+            {
+              "start": 352,
+              "end": 365,
+              "username": "Eathbound420",
+              "id": "1026282888474443776"
+            },
+            {
+              "start": 367,
+              "end": 374,
+              "username": "ektaka",
+              "id": "408898649"
+            },
+            {
+              "start": 376,
+              "end": 386,
+              "username": "CharIowa1",
+              "id": "1348675636836052993"
+            },
+            {
+              "start": 388,
+              "end": 403,
+              "username": "Malcolmdonaghy",
+              "id": "1008448240688214018"
+            },
+            {
+              "start": 405,
+              "end": 417,
+              "username": "Gemini21BLM",
+              "id": "1220056834515578882"
+            },
+            {
+              "start": 419,
+              "end": 432,
+              "username": "3SidecarsPlz",
+              "id": "1273106717316911107"
+            },
+            {
+              "start": 434,
+              "end": 445,
+              "username": "mem_reddog",
+              "id": "831649277881491457"
+            },
+            {
+              "start": 447,
+              "end": 459,
+              "username": "ButtersKatz",
+              "id": "921449088872321025"
+            },
+            {
+              "start": 461,
+              "end": 474,
+              "username": "chill_canada",
+              "id": "1218657589925269504"
+            },
+            {
+              "start": 476,
+              "end": 486,
+              "username": "TRUESAY14",
+              "id": "1149790176694157323"
+            },
+            {
+              "start": 488,
+              "end": 498,
+              "username": "jbminatra",
+              "id": "91176799"
+            },
+            {
+              "start": 500,
+              "end": 513,
+              "username": "muse_mystery",
+              "id": "1290079399816171520"
+            }
+          ],
+          "urls": [
+            {
+              "start": 514,
+              "end": 537,
+              "url": "https://t.co/7N2X9ZCM8x",
+              "expanded_url": "https://twitter.com/katibug817/status/1457796695178170375/photo/1",
+              "display_url": "pic.twitter.com/7N2X9ZCM8x"
+            }
+          ]
+        },
+        "source": "Twitter for Android",
+        "lang": "en",
+        "attachments": {
+          "media_keys": [
+            "3_1457796692682575874"
+          ]
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1457398372726235140"
+          }
+        ],
+        "text": "@Eathbound420 @SabineTraeder @jackie14916195 @Jane_with_a_y @Mary1Kathy @Suzyqfit4u @chefrocky413 @kitchen5203 @dindin6 @DeniseDarrer @DarwunStJames @garychristou @77SunnyAndClear @ZACKHAMMER7 @JustChrisC2 @KimberlyROSE50 @small1ldy1 @Texy_Liz Thank you for the tag EB @Eathbound420 💕💕 \nI really appreciate it! Adding More great peeps:\n@lisasmith1150 \n@Eathbound420 \n@ektaka \n@CharIowa1 \n@Malcolmdonaghy \n@Gemini21BLM \n@3SidecarsPlz \n@mem_reddog \n@ButtersKatz \n@chill_canada \n@TRUESAY14 \n@jbminatra \n@muse_mystery https://t.co/7N2X9ZCM8x",
+        "author_id": "1129683662"
+      },
+      {
+        "conversation_id": "1457703063330959367",
+        "created_at": "2021-11-08T13:34:27.000Z",
+        "id": "1457703063330959367",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847546154439000064",
+              "name": "Education",
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "852247095461371904",
+              "name": "Graduate school",
+              "description": "Graduate school"
+            }
+          }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "lang": "en",
+        "entities": {
+          "annotations": [
+            {
+              "start": 42,
+              "end": 47,
+              "probability": 0.9987,
+              "type": "Place",
+              "normalized_text": "Canada"
+            },
+            {
+              "start": 113,
+              "end": 118,
+              "probability": 0.9478,
+              "type": "Place",
+              "normalized_text": "Canada"
+            },
+            {
+              "start": 144,
+              "end": 149,
+              "probability": 0.9835,
+              "type": "Place",
+              "normalized_text": "Canada"
+            }
+          ],
+          "urls": [
+            {
+              "start": 265,
+              "end": 288,
+              "url": "https://t.co/VBxKRyyWTl",
+              "expanded_url": "https://olufemiloye.ca/15-canadian-universities-with-lots-of-scholarships/",
+              "display_url": "olufemiloye.ca/15-canadian-un…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1457703067768561675/FN104WqH?format=png&name=orig",
+                  "width": 640,
+                  "height": 516
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1457703067768561675/FN104WqH?format=png&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "15 Canadian Universities with lots of Scholarships.",
+              "description": "If you want to do a Masters/PhD in Canada, and you really need a scholarship, you should consider applying to these 15 schools. (We call them the U15 Universities). Below, you will see links to ALL…",
+              "unwound_url": "https://olufemiloye.ca/15-canadian-universities-with-lots-of-scholarships/"
+            }
+          ]
+        },
+        "text": "Again, if you want to do a Masters/PhD in Canada, and you really really need a scholarship, consider applying to Canada’s U15 schools\n\nThey are Canada’s heavy-pocket schools with plenty scholarships\n\nI listed their programs &amp; other info here, check &amp; APPLY!https://t.co/VBxKRyyWTl",
+        "author_id": "279897589"
+      },
+      {
+        "entities": {
+          "hashtags": [
+            {
+              "start": 187,
+              "end": 209,
+              "tag": "IndigenousVeteransDay"
+            },
+            {
+              "start": 210,
+              "end": 223,
+              "tag": "LestWeForget"
+            },
+            {
+              "start": 224,
+              "end": 230,
+              "tag": "AbLeg"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 84,
+              "end": 89,
+              "probability": 0.9921,
+              "type": "Place",
+              "normalized_text": "Canada"
+            }
+          ],
+          "urls": [
+            {
+              "start": 231,
+              "end": 254,
+              "url": "https://t.co/NhhXQZjp2A",
+              "expanded_url": "https://twitter.com/SayidAhmedUCP/status/1457888939167997954/photo/1",
+              "display_url": "pic.twitter.com/NhhXQZjp2A"
+            },
+            {
+              "start": 231,
+              "end": 254,
+              "url": "https://t.co/NhhXQZjp2A",
+              "expanded_url": "https://twitter.com/SayidAhmedUCP/status/1457888939167997954/photo/1",
+              "display_url": "pic.twitter.com/NhhXQZjp2A"
+            }
+          ]
+        },
+        "conversation_id": "1457888939167997954",
+        "created_at": "2021-11-09T01:53:04.000Z",
+        "id": "1457888939167997954",
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "lang": "en",
+        "attachments": {
+          "media_keys": [
+            "3_1457888906158882820",
+            "3_1457888906167214083"
+          ]
+        },
+        "text": "Today, November 8, we honour and thank all Indigenous Veterans for their service to Canada. We Will Remember Them and all of our heroes who made the ultimate sacrifice for great country. #IndigenousVeteransDay #LestWeForget #AbLeg https://t.co/NhhXQZjp2A",
+        "author_id": "1419746989449744396"
+      },
+      {
+        "entities": {
+          "hashtags": [
+            {
+              "start": 272,
+              "end": 280,
+              "tag": "cdnpoli"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 120,
+              "end": 137,
+              "probability": 0.8585,
+              "type": "Organization",
+              "normalized_text": "Conservative Party"
+            },
+            {
+              "start": 142,
+              "end": 147,
+              "probability": 0.7081,
+              "type": "Place",
+              "normalized_text": "Canada"
+            },
+            {
+              "start": 185,
+              "end": 191,
+              "probability": 0.9842,
+              "type": "Place",
+              "normalized_text": "Ontario"
+            },
+            {
+              "start": 194,
+              "end": 200,
+              "probability": 0.9367,
+              "type": "Place",
+              "normalized_text": "Alberta"
+            },
+            {
+              "start": 203,
+              "end": 214,
+              "probability": 0.9484,
+              "type": "Place",
+              "normalized_text": "Saskatchewan"
+            },
+            {
+              "start": 220,
+              "end": 227,
+              "probability": 0.942,
+              "type": "Place",
+              "normalized_text": "Manitoba"
+            }
+          ]
+        },
+        "conversation_id": "1457876367329136644",
+        "created_at": "2021-11-09T01:03:06.000Z",
+        "id": "1457876367329136644",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "123",
+              "name": "Ongoing News Story",
+              "description": "Ongoing News Stories like 'Brexit'"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "lang": "en",
+        "text": "The unvaccinated are dragging this pandemic out. We will enter the third year of it because of them. Their party is the Conservative Party of Canada and the Conservative governments of Ontario, Alberta, Saskatchewan and Manitoba. They prolong everybody's misery. Enough!! #cdnpoli",
+        "author_id": "122640580"
+      },
+      {
+        "conversation_id": "1457827700861640707",
+        "created_at": "2021-11-08T21:49:43.000Z",
+        "id": "1457827700861640707",
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "lang": "en",
+        "entities": {
+          "annotations": [
+            {
+              "start": 4,
+              "end": 9,
+              "probability": 0.9758,
+              "type": "Place",
+              "normalized_text": "Canada"
+            },
+            {
+              "start": 42,
+              "end": 46,
+              "probability": 0.9362,
+              "type": "Place",
+              "normalized_text": "China"
+            },
+            {
+              "start": 106,
+              "end": 110,
+              "probability": 0.9655,
+              "type": "Place",
+              "normalized_text": "China"
+            },
+            {
+              "start": 236,
+              "end": 237,
+              "probability": 0.8813,
+              "type": "Place",
+              "normalized_text": "US"
+            }
+          ],
+          "urls": [
+            {
+              "start": 257,
+              "end": 280,
+              "url": "https://t.co/tkbyIWOzc0",
+              "expanded_url": "https://www.bloomberg.com/news/features/2021-11-02/china-climate-goals-hinge-on-440-billion-nuclear-power-plan-to-rival-u-s",
+              "display_url": "bloomberg.com/news/features/…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1455632368950120449/qOfYzpYt?format=jpg&name=orig",
+                  "width": 1200,
+                  "height": 800
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1455632368950120449/qOfYzpYt?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "China’s Climate Goals Hinge on a $440 Billion Nuclear Buildout",
+              "description": "China is planning at least 150 new reactors in the next 15 years, more than the rest of the world has built in the past 35.",
+              "unwound_url": "https://www.bloomberg.com/news/features/2021-11-02/china-climate-goals-hinge-on-440-billion-nuclear-power-plan-to-rival-u-s"
+            }
+          ]
+        },
+        "text": "And Canada is planning to build... none.\n\nChina’s climate goals hinge on a $440 billion nuclear buildout. China is planning 150 new reactors in the next 15 years, more than the rest of the world has built in the past 35, surpassing the US in nuclear power.\nhttps://t.co/tkbyIWOzc0",
+        "author_id": "1314418472399462400"
+      },
+      {
+        "conversation_id": "1457877570511417346",
+        "created_at": "2021-11-09T01:07:53.000Z",
+        "id": "1457877570511417346",
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "lang": "es",
+        "attachments": {
+          "media_keys": [
+            "3_1457877565817958401"
+          ]
+        },
+        "entities": {
+          "annotations": [
+            {
+              "start": 20,
+              "end": 25,
+              "probability": 0.9727,
+              "type": "Place",
+              "normalized_text": "Canadá"
+            }
+          ],
+          "urls": [
+            {
+              "start": 56,
+              "end": 79,
+              "url": "https://t.co/gIKczAam8G",
+              "expanded_url": "https://twitter.com/tdmas_cr/status/1457877570511417346/photo/1",
+              "display_url": "pic.twitter.com/gIKczAam8G"
+            }
+          ]
+        },
+        "text": "Cuando le ganemos a Canadá espero verlos celebrando así https://t.co/gIKczAam8G",
+        "author_id": "1349849582"
+      },
+      {
+        "entities": {
+          "hashtags": [
+            {
+              "start": 100,
+              "end": 106,
+              "tag": "GOT7𓅪"
+            },
+            {
+              "start": 107,
+              "end": 115,
+              "tag": "Yugyeom"
+            },
+            {
+              "start": 116,
+              "end": 123,
+              "tag": "NCT127"
+            },
+            {
+              "start": 124,
+              "end": 129,
+              "tag": "MARK"
+            },
+            {
+              "start": 130,
+              "end": 134,
+              "tag": "EXO"
+            },
+            {
+              "start": 135,
+              "end": 138,
+              "tag": "DO"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 38,
+              "end": 43,
+              "probability": 0.9925,
+              "type": "Place",
+              "normalized_text": "CANADA"
+            }
+          ]
+        },
+        "conversation_id": "1457706437304406019",
+        "attachments": {
+          "poll_ids": [
+            "1457706436222275585"
+          ]
+        },
+        "created_at": "2021-11-08T13:47:52.000Z",
+        "id": "1457706437304406019",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "889972468953128960",
+              "name": "EXO",
+              "description": "Members: Suho (수호), Chanyeol (찬열), Kai (카이), D.O (디오), Baekhyun (백현), Sehun (세훈), Xiumin (시우민), Chen (첸), Lay (레이)"
+            }
+          },
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "892012685352591360",
+              "name": "Mark (GOT7)",
+              "description": "Mark (마크) - member of GOT7"
+            }
+          },
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "894973286085386240",
+              "name": "Yugyeom (GOT7)",
+              "description": "Yugyeom (유겸) - member of GOT7"
+            }
+          },
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "895349042850414592",
+              "name": "D.O.",
+              "description": "D.O. (디오) - member of EXO"
+            }
+          },
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "897126481884659712",
+              "name": "NCT",
+              "description": "Members: Mark (마크 from NCT), Renjun (런쥔), Jeno (제노), Haechan (해찬), Jaemin (재민), Chenle (천러), Jisung (지성), Taeil (태일 from NCT), Doyoung (도영), Jaehyun (재현), Johnny (쟈니), Taeyong (태용), Yuta (유타), Winwin (윈윈), Ten (텐)"
+            }
+          },
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "910970076802695168",
+              "name": "NCT 127",
+              "description": "NCT 127 - subunit group of NCT"
+            }
+          },
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "913452225002749952",
+              "name": "MARK (NCT)",
+              "description": "Mark (마크 from NCT), member of NCT"
+            }
+          },
+          {
+            "domain": {
+              "id": "54",
+              "name": "Musician",
+              "description": "A musician in the world, like Adele or Bob Dylan"
+            },
+            "entity": {
+              "id": "889972468953128960",
+              "name": "EXO",
+              "description": "Members: Suho (수호), Chanyeol (찬열), Kai (카이), D.O (디오), Baekhyun (백현), Sehun (세훈), Xiumin (시우민), Chen (첸), Lay (레이)"
+            }
+          },
+          {
+            "domain": {
+              "id": "54",
+              "name": "Musician",
+              "description": "A musician in the world, like Adele or Bob Dylan"
+            },
+            "entity": {
+              "id": "892012685352591360",
+              "name": "Mark (GOT7)",
+              "description": "Mark (마크) - member of GOT7"
+            }
+          },
+          {
+            "domain": {
+              "id": "54",
+              "name": "Musician",
+              "description": "A musician in the world, like Adele or Bob Dylan"
+            },
+            "entity": {
+              "id": "894973286085386240",
+              "name": "Yugyeom (GOT7)",
+              "description": "Yugyeom (유겸) - member of GOT7"
+            }
+          },
+          {
+            "domain": {
+              "id": "54",
+              "name": "Musician",
+              "description": "A musician in the world, like Adele or Bob Dylan"
+            },
+            "entity": {
+              "id": "895349042850414592",
+              "name": "D.O.",
+              "description": "D.O. (디오) - member of EXO"
+            }
+          },
+          {
+            "domain": {
+              "id": "54",
+              "name": "Musician",
+              "description": "A musician in the world, like Adele or Bob Dylan"
+            },
+            "entity": {
+              "id": "897126481884659712",
+              "name": "NCT",
+              "description": "Members: Mark (마크 from NCT), Renjun (런쥔), Jeno (제노), Haechan (해찬), Jaemin (재민), Chenle (천러), Jisung (지성), Taeil (태일 from NCT), Doyoung (도영), Jaehyun (재현), Johnny (쟈니), Taeyong (태용), Yuta (유타), Winwin (윈윈), Ten (텐)"
+            }
+          },
+          {
+            "domain": {
+              "id": "54",
+              "name": "Musician",
+              "description": "A musician in the world, like Adele or Bob Dylan"
+            },
+            "entity": {
+              "id": "910970076802695168",
+              "name": "NCT 127",
+              "description": "NCT 127 - subunit group of NCT"
+            }
+          },
+          {
+            "domain": {
+              "id": "54",
+              "name": "Musician",
+              "description": "A musician in the world, like Adele or Bob Dylan"
+            },
+            "entity": {
+              "id": "913452225002749952",
+              "name": "MARK (NCT)",
+              "description": "Mark (마크 from NCT), member of NCT"
+            }
+          },
+          {
+            "domain": {
+              "id": "55",
+              "name": "Music Genre",
+              "description": "A category for a musical style, like Pop, Rock, or Rap"
+            },
+            "entity": {
+              "id": "888105153038958593",
+              "name": "K-pop",
+              "description": "K-Pop"
+            }
+          }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "lang": "en",
+        "text": "✨IDOLCHAMP : THE MOST POPULAR IDOL IN CANADA ✨\n\n✨1.800 CHASIM\n\n✨RULES :\nFOLLOW, LIKE &amp; RETWEET\n\n#GOT7𓅪 #Yugyeom #NCT127 #MARK #EXO #DO",
+        "author_id": "1424795897574019078"
+      },
+      {
+        "entities": {
+          "hashtags": [
+            {
+              "start": 184,
+              "end": 191,
+              "tag": "Canada"
+            },
+            {
+              "start": 192,
+              "end": 213,
+              "tag": "Internationalstudent"
+            },
+            {
+              "start": 214,
+              "end": 240,
+              "tag": "Justicefornepalesestudent"
+            }
+          ],
+          "mentions": [
+            {
+              "start": 56,
+              "end": 69,
+              "username": "CitImmCanada",
+              "id": "91193025"
+            },
+            {
+              "start": 70,
+              "end": 84,
+              "username": "CanadainIndia",
+              "id": "227032547"
+            },
+            {
+              "start": 85,
+              "end": 99,
+              "username": "CanadainNepal",
+              "id": "999347040541913094"
+            },
+            {
+              "start": 100,
+              "end": 112,
+              "username": "RONBupdates",
+              "id": "3141875413"
+            },
+            {
+              "start": 113,
+              "end": 126,
+              "username": "SeanFraserMP",
+              "id": "1072270926"
+            },
+            {
+              "start": 127,
+              "end": 141,
+              "username": "JustinTrudeau",
+              "id": "14260960"
+            },
+            {
+              "start": 142,
+              "end": 153,
+              "username": "SherBDeuba",
+              "id": "702338393414443008"
+            },
+            {
+              "start": 154,
+              "end": 165,
+              "username": "CanadianPM",
+              "id": "14713787"
+            },
+            {
+              "start": 166,
+              "end": 182,
+              "username": "JusticeCanadaEN",
+              "id": "847506104"
+            }
+          ],
+          "urls": [
+            {
+              "start": 241,
+              "end": 264,
+              "url": "https://t.co/bRha2MEbNo",
+              "expanded_url": "https://twitter.com/prshntlma/status/1457654281797087235",
+              "display_url": "twitter.com/prshntlma/stat…"
+            }
+          ]
+        },
+        "conversation_id": "1457678460063604738",
+        "created_at": "2021-11-08T11:56:41.000Z",
+        "id": "1457678460063604738",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "1070735214702288896",
+              "name": "Sean Fraser",
+              "description": "Canadian politician"
+            }
+          },
+          {
+            "domain": {
+              "id": "35",
+              "name": "Politician",
+              "description": "Politicians in the world, like Joe Biden"
+            },
+            "entity": {
+              "id": "1070735214702288896",
+              "name": "Sean Fraser",
+              "description": "Canadian politician"
+            }
+          },
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "834164697880416257",
+              "name": "Justin Trudeau",
+              "description": "Canadian Prime Minister Justin Trudeau"
+            }
+          },
+          {
+            "domain": {
+              "id": "35",
+              "name": "Politician",
+              "description": "Politicians in the world, like Joe Biden"
+            },
+            "entity": {
+              "id": "834164697880416257",
+              "name": "Justin Trudeau",
+              "description": "Canadian Prime Minister Justin Trudeau"
+            }
+          }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "lang": "en",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1457654281797087235"
+          }
+        ],
+        "text": "Dear IRCC, please hear the voices of Nepalese Students\n\n@CitImmCanada @CanadainIndia @CanadainNepal @RONBupdates @SeanFraserMP @JustinTrudeau @SherBDeuba @CanadianPM @JusticeCanadaEN \n#Canada #Internationalstudent #Justicefornepalesestudent https://t.co/bRha2MEbNo",
+        "author_id": "1400257357569875970"
+      },
+      {
+        "entities": {
+          "hashtags": [
+            {
+              "start": 247,
+              "end": 254,
+              "tag": "auspol"
+            },
+            {
+              "start": 255,
+              "end": 263,
+              "tag": "politas"
+            },
+            {
+              "start": 264,
+              "end": 267,
+              "tag": "EV"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 148,
+              "end": 149,
+              "probability": 0.8908,
+              "type": "Place",
+              "normalized_text": "UK"
+            },
+            {
+              "start": 152,
+              "end": 156,
+              "probability": 0.9493,
+              "type": "Place",
+              "normalized_text": "Japan"
+            },
+            {
+              "start": 162,
+              "end": 167,
+              "probability": 0.9905,
+              "type": "Place",
+              "normalized_text": "Canada"
+            },
+            {
+              "start": 217,
+              "end": 225,
+              "probability": 0.9925,
+              "type": "Place",
+              "normalized_text": "Australia"
+            }
+          ]
+        },
+        "conversation_id": "1457851846093991938",
+        "created_at": "2021-11-08T23:25:40.000Z",
+        "id": "1457851846093991938",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "45",
+              "name": "Brand Vertical",
+              "description": "Top level entities that describe a Brands industry"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847528391163092993",
+              "name": "Automotive",
+              "description": "Car culture"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "847528576551337984",
+              "name": "Hybrid and electric vehicles",
+              "description": "Hybrid and electric vehicles"
+            }
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "source": "Twitter Web App",
+        "lang": "en",
+        "text": "No targets, subsidies or emissions standards. The Govt's electric car strategy is woefully light on detail, against industry and expert advice. The UK, Japan and Canada will phase out fossil fuel vehicles by 2040 but Australia remains an outlier. #auspol #politas #EV",
+        "author_id": "398422158"
+      },
+      {
+        "entities": {
+          "hashtags": [
+            {
+              "start": 165,
+              "end": 179,
+              "tag": "climatechange"
+            }
+          ],
+          "mentions": [
+            {
+              "start": 210,
+              "end": 222,
+              "username": "NatObserver",
+              "id": "17410863"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 0,
+              "end": 5,
+              "probability": 0.974,
+              "type": "Place",
+              "normalized_text": "Canada"
+            }
+          ],
+          "urls": [
+            {
+              "start": 182,
+              "end": 205,
+              "url": "https://t.co/3AUSbBBGPU",
+              "expanded_url": "https://www.nationalobserver.com/2021/11/06/news/canada-fund-forests-farms-coastlines-climate-efforts-biodiversity",
+              "display_url": "nationalobserver.com/2021/11/06/new…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1457727505108910081/QRI4GgIG?format=jpg&name=orig",
+                  "width": 1200,
+                  "height": 800
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1457727505108910081/QRI4GgIG?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "Canada to fund forests, farms, and coastlines in climate efforts",
+              "description": "Canada has committed to spending over $1 billion to help developing countries protect their coastlines, forests, and other natural ecosystems in an effort to combat climate change. ",
+              "unwound_url": "https://www.nationalobserver.com/2021/11/06/news/canada-fund-forests-farms-coastlines-climate-efforts-biodiversity"
+            }
+          ]
+        },
+        "conversation_id": "1457764407044366339",
+        "created_at": "2021-11-08T17:38:13.000Z",
+        "id": "1457764407044366339",
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "lang": "en",
+        "text": "Canada has committed to spending over $1 billion to help developing countries protect their coastlines, forests, and other natural ecosystems in an effort to combat #climatechange.\n\nhttps://t.co/3AUSbBBGPU via @NatObserver",
+        "author_id": "276713213"
+      }
+    ],
+    "polls": [
+      {
+        "id": "1457706436222275585",
+        "options": [
+          {
+            "position": 1,
+            "label": "GOT7 YUGYEOM",
+            "votes": 6662
+          },
+          {
+            "position": 2,
+            "label": "NCT 127 MARK",
+            "votes": 9255
+          },
+          {
+            "position": 3,
+            "label": "EXO D.0",
+            "votes": 3126
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1457890381182509056",
+    "oldest_id": "1457890356867977218",
+    "result_count": 10,
+    "next_token": "b26v89c19zqg8o3fpdv8quagc6n47qxop9rpdykqwugsd"
+  }
+}
